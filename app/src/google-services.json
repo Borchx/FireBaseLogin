@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305002331931",
+    "project_id": "firelogin-de74c",
+    "storage_bucket": "firelogin-de74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305002331931:android:cce9fb1f24142c66029dbe",
+        "android_client_info": {
+          "package_name": "com.borja.android.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305002331931-40tf51v1vliar84dja0jl0m7sfdiqtam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.borja.android.firelogin",
+            "certificate_hash": "cfc181cedc0f3975523a1a069ea6df8c76cb537c"
+          }
+        },
+        {
+          "client_id": "305002331931-dmffuanf6ka0jquh8adgon3t8shg0eci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sVsW3jCVdmsxBk6RULEiwm3iM6s2qmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305002331931-dmffuanf6ka0jquh8adgon3t8shg0eci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
